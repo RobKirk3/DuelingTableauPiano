@@ -16,7 +16,7 @@ I've been working as a Dueling Piano entertainer since 2015. Dueling Pianos is a
 Two singing piano players take all the song requests in real time and turn that into a fun interactive show. Since we never know ahead of time what an audience will want to hear, the challenge is always: what song should I learn next?
 
 A typical Dueling Piano set up
-![Example screenshot](./screenshot.jpg)
+![Example screenshot](./Dueling_Pianos.jpg)
 
 ## The Data
 I pulled song lists off of Spotify. Using my personal knowledge as an industry insider I was able to filter over 20 playlists of "Important songs to know" for dueling piano players. I combined these into one master list of nearly 1,000 songs and exported that list to Excel. After cleaning up titles, removing duplicates, simplifying decades, and adding genre information the list was ready to be loaded into Tableau. 
@@ -24,7 +24,7 @@ I pulled song lists off of Spotify. Using my personal knowledge as an industry i
 I also used my own personal list of songs I know as a test case for comparison. 
 
 ## Screenshots
-![Example screenshot](./Dueling_Pianos.jpg)
+![Example screenshot](./screenshot.jpg)
 
 ## Technologies
 * Tableau Desktop - Professional Edition 2020.4.2
